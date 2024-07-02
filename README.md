@@ -19,3 +19,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+<br/>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lltlien&show_icons=true&locale=en&layout=compact" alt="lltlien" /></div>
+
